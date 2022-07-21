@@ -1,0 +1,142 @@
+.footer {
+  background: #f2f2f2;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.footer-logo img{
+  float: left;
+}
+.footer-link{
+  float: left;
+}
+.footer-link h3{
+  position: relative;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.footer-link h3::after {
+  content: '';
+  position: absolute;
+  width: 100px;
+  height: 5px;
+  left: 0px;
+  background: #539838;
+  margin-top: 30px;
+}
+.footer-link ul {
+  margin: 0px;
+  padding: 0px;
+  padding-top: 15px;
+}
+.footer-link ul li {
+  list-style: none;
+  padding-top: 10px;
+}
+.footer-link ul li a {
+  text-decoration: none;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.8);
+  line-height: 1em;
+}
+
+
+.footer-contact h3{
+  position: relative;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.footer-contact h3::after {
+  content: '';
+  position: absolute;
+  width: 100px;
+  height: 5px;
+  left: 0px;
+  background: #539838;
+  margin-top: 30px;
+}
+.footer-contact ul {
+  margin: 0px;
+  padding: 0px;
+  padding-top: 5px;
+}
+.footer-contact h4 {
+  font-size: 16px;
+  padding-top: 25px;
+  font-weight: 600;
+  opacity: 0.8;
+}
+.footer-contact p {
+  font-size: 18px;
+  opacity: 0.8;
+}
+.footer-contact a {
+  text-decoration: none;
+  color: #000;
+  font-size: 17px;
+  font-weight: 300;
+  opacity: 0.8;
+}
+
+.footer-social h3{
+  position: relative;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.footer-social h3::after {
+  content: '';
+  position: absolute;
+  width: 100px;
+  height: 5px;
+  left: 0px;
+  background: #539838;
+  margin-top: 30px;
+}
+.footer-social ul {
+  margin: 0px;
+  padding: 0px;
+  padding-top: 25px;
+}
+.footer-social i.fa.fa-instagram.ico {
+  background: #fff;
+  padding: 9px;
+  border-radius: 100%;
+  font-size: 23px;
+  text-align: center;
+  color: #539838;
+  margin-right: 10px;
+  height: 40px;
+  width: 40px;
+}
+i.fa.fa-facebook.ico {
+  background: #fff;
+  padding: 9px;
+  border-radius: 100%;
+  font-size: 23px;
+  width: 14%;
+  text-align: center;
+  color: #539838;
+  margin-right: 10px;
+  height: 40px;
+  width: 40px;
+}
+.coppy {
+  text-align: center;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+.coppy h6{
+  font-size: 13px;
+}
+
+
+@media (max-width:767px) {
+  .footer-link, .footer-contact, .footer-social {
+    margin-top: 30px;
+}
+}

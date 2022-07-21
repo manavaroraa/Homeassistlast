@@ -1,0 +1,332 @@
+{
+  "code": "pt_pt",
+  "navbar": {
+    "aboutUs": "Quem Somos",
+    "termsConditions": "Termos e condições",
+    "privacyPolicy": "Política de privacidade",
+    "myProfile": "Meu Perfil",
+    "button1": "Inscrição de Profissional",
+    "button2": "Entrar",
+    "logout": "Sair",
+    "help": "Ajuda",
+    "SignInAsProfessional": "Cadastre-se como profissional",
+    "signIn": "Inscrição de",
+    "professional": "profissional",
+    "ha": "Home Assistant",
+    "user": "usuário"
+  },
+  "carouselText": {
+    "item1": {
+      "line1": "Tudo para você cuidar",
+      "line2": "da sua casa e da sua família",
+      "paragraph": "A tranquilidade para cumprir seus compromissos profissionais ciente de que sua família estará sendo cuidada."
+    },
+    "item2": {
+      "line1": "Contato direto com",
+      "line2": "diversos profissionais",
+      "paragraph": "É fácil, é rápido, você trata diretamente com quem faz."
+    },
+    "item3": {
+      "line1": "Profissionais",
+      "line2": "indicados e avaliados.",
+      "paragraph": "Você atende às suas necessidades e contribui com projetos sociais."
+    },
+    "item4": {
+      "line1": "Busque entre",
+      "line2": "diversos serviços.",
+      "paragraph": "A tranquilidade para cumprir seus compromissos profissionais ciente de que sua família estará sendo cuidada."
+    }
+  },
+  "ourServices": {
+    "title": "Nossos serviços",
+    "subtitle": "Selecione um serviço para saber mais.",
+    "homeServices": {
+      "title": "Serviços para sua casa",
+      "text": "Temos diversas soluções para manutenção, decoração e limpeza da sua casa."
+    },
+    "familyServices": {
+      "title": "Serviços para sua família",
+      "text": "Diversos tipos de cuidados para toda a sua família, incluindo os seus pets!"
+    },
+    "servicesForYou": {
+      "title": "Serviços para você",
+      "text": "Os mais variados cuidados pessoais para garantir o seu bem estar."
+    }
+  },
+  "whatIsHomeAssistent": {
+    "title": "O que é o HomeAssist4u?",
+    "description": "É o site que te permite contratar profissionais próximos à sua localização para te ajudar com diversos tipos de serviços. É fácil, rápido e muito eficiente:",
+    "item1": "Busque o serviço que você precisa através do nosso site.",
+    "item2": "Negocie diretamente com o profissional que deseja contratar.",
+    "item3": "Receba seu serviço e pague diretamente para o contratado."
+  },
+  "BeAssistant": {
+    "title": " Seja um Home Assistant",
+    "description": "Você tem tempo disponível e pode prestar serviço remunerado perto da sua casa? Venha ser um Home Assistant!",
+    "item1": "Você consegue uma nova fonte de renda.",
+    "item2": "Você conhece novas pessoas, que podem passar a te contratar com frequência.",
+    "item3": "Você não precisa ter nenhuma habilidade técnica comprovada por diplomas ou certificados!",
+    "buttonLeft": "Seja um Home Assistant",
+    "buttonRight": "Contratar um Home Assistant"
+  },
+  "findSolution": {
+    "description": "Aqui você encontra a solução que vai facilitar a sua vida!"
+  },
+  "footer": {
+    "link1": "Termos e condições",
+    "link2": "Política de privacidade",
+    "link3": "Sobre nós",
+    "link4": "Dicas de Segurança",
+    "link5": "Home Assistants",
+    "descriptionSocialMedia": "Acompanhe ou entre em contato pelas nossas redes sociais:"
+  },
+  "homeFormSearch": {
+    "item1": "Do que você precisa?",
+    "placeholder1": "Selecione uma atividade...",
+    "item2": "Em qual país você precisa?",
+    "placeholder2": "Selecione um país...",
+    "item3": "Em que distrito você precisa?",
+    "placeholder3": "Selecione um distrito...",
+    "button": "Buscar"
+  },
+  "accountIndex": {
+    "premiumUser": {
+      "title": "premium usuário",
+      "text": "Encontre o profissional que você precisa, torne-se um usuário premium.",
+      "button": "Realizar Pagamento"
+    },
+    "keepYourProfile": {
+      "title": "mantenha seu perfil ativo, renove aqui",
+      "text": " MANTENHA SEU PERFIL ATIVO, RENOVE AQUI",
+      "button": "Realizar Pagamento"
+    },
+    "RegisterProfile": {
+      "title": "Trabalhador",
+      "text": "Cadastre seu perfil profissional",
+      "button": "Clique aqui"
+    },
+    "homeAssistant": {
+      "title": "HomeAssistant",
+      "text": "Torne-se um home assistant.",
+      "button": "Clique aqui"
+    },
+    "hideProfile": {
+      "title": "Ocultar Perfil",
+      "labelYes": "Sim",
+      "labelNo": "Não"
+    },
+    "lastPayments": {
+      "title": "Últimos pagamentos",
+      "datePayment": "Data",
+      "valuePayment": "Valor",
+      "typePayment": "Tipo",
+      "statusPayment": "Status",
+      "textNoPayment": "Você não realizou nenhum pagamento!"
+    }
+  },
+  "accountProfile": {
+    "whyHA": "Razões pelas quais gostaria de ser um Home Assistant?",
+    "personalInfo": {
+      "sectionTitle": "Identificação Pessoal",
+      "name": "Nome Completo",
+      "birthdate": "Data de nascimento",
+      "gender": "Gênero",
+      "genderSelection": {
+        "female": "Feminino",
+        "male": "Masculino",
+        "other": "Outros"
+      },
+      "nif": "NIF",
+      "documentNumber": "Número documento identificação",
+      "issuedBy": "Emitido por",
+      "postalCode": "Código postal",
+      "street": "Rua",
+      "number": "Nº",
+      "complement": "Complemento",
+      "freguesia": "Freguesia",
+      "city": "Concelho",
+      "district": "Distrito",
+      "country": "País",
+      "telephone": "Telemóvel"
+    },
+    "professionalInfo": {
+      "sectionTitle": "Informação Profissional",
+      "availableActivities": "Atividades em que pode trabalhar",
+      "workRegion": "Região onde pretende trabalhar",
+      "code": "Código de Indicação"
+    },
+    "documents": {
+      "sectionTitle": "Documentos",
+      "documentCopy": "Cópia do Documento",
+      "profilePicture": "Foto de perfil",
+      "fatherName": "Nome do Pai",
+      "motherName": "Nome da Mãe",
+      "birthDistrict": "Distrito onde nasceu",
+      "birthCountry": "País onde nasceu"
+    },
+    "professionalExperience": {
+      "sectionTitle": "Experiencia Profissional",
+      "description": "Descrição experiencia",
+      "time": "Tempo experiencia",
+      "courses": "Cursos realizados",
+      "level": "Nível educacional",
+      "cvFile": "Anexar CV (Opcional)",
+      "availableTime": {
+        "label": "Datas/horários disponíveis",
+        "hourly": "Hora",
+        "daily": "Diária",
+        "monthly": "Mensal",
+        "from": "De",
+        "to": "Até"
+      },
+      "availableDay": "Datas/horários disponíveis"
+    },
+    "aditionalInfo": {
+      "sectionTitle": "Informações Adicionais",
+      "hasSocialMedia": "Tem perfil nas redes sociais?",
+      "acceptDisclosure": "Aceita que seja divulgado?",
+      "driverLicense": "Carta condução",
+      "livingPets": "Convivência com animais de estimação",
+      "smoker": "Fumante",
+      "personalNotes": "Anotações pessoais",
+      "buttonAdd": "Adicionar",
+      "read": "Lê",
+      "speak": "Fala",
+      "understand": "Entende"
+    },
+    "placeholder": "Insira",
+    "optInTerms": "Aceito os termos e condições de uso.",
+    "optInPolicy": "Aceito os termos de política de privacidade.",
+    "errorTerms": "Deve ser aceito os termos de uso e privacidade"
+  },
+  "sidebar": {
+    "item1": "Início",
+    "item2": "Perfil",
+    "item3": "Chat",
+    "item4": "Pagamentos",
+    "item5": "Avaliações"
+  },
+  "listChat": {
+    "title": "Dicas de segurança",
+    "text": "Você não possui conversas",
+    "button": "Procurar Profissionais",
+    "placeholder": "Procurar usuário..."
+  },
+  "chatDetail": {
+    "text1": "Inicie uma conversa.",
+    "text2": "Grandes coisas podem acontecer!"
+  },
+  "rating": {
+    "generalRating": {
+      "title": "Avaliações gerais",
+      "subtitle": "Média",
+      "description1": "Muito ruim",
+      "description2": "Difícil de fluir",
+      "description3": "Ótimo, mas pode ser melhor",
+      "description4": "Bom",
+      "description5": "Muito bom"
+    },
+    "personality": {
+      "title": "Personalidade",
+      "description1": "Muito ruim",
+      "description2": "Difícil",
+      "description3": "Um pouco profissional",
+      "description4": "Profissional",
+      "description5": "Muito profissional"
+    },
+    "workEthic": {
+      "title": "Ética de trabalho",
+      "description1": "Muito antiético",
+      "description2": "Antiético",
+      "description3": "Um pouco ético",
+      "description4": "Ético",
+      "description5": "Muito ético"
+    },
+    "followInstruction": {
+      "title": "Segue Instruções",
+      "description1": "De jeito nenhum",
+      "description2": "Um pouco",
+      "description3": "Sim",
+      "description4": "Melhorias feitas",
+      "description5": "Além das expectativas"
+    },
+    "time": {
+      "title": "Prazos",
+      "description1": "Não cumpriu o combinado",
+      "description2": "Necessárias para refazer",
+      "description3": "Com atrasos",
+      "description4": "Conforme combinado",
+      "description5": "Antes combinado"
+    },
+    "quality": {
+      "title": "Qualidade",
+      "description1": "Inaceitável",
+      "description2": "Aceitável",
+      "description3": "Bom",
+      "description4": "Muito bom",
+      "description5": "Excelente"
+    },
+    "punctuality": {
+      "title": "Pontualidade",
+      "description1": "Muito não pontual",
+      "description2": "Não pontual",
+      "description3": "Um pouco pontual",
+      "description4": "Pontual",
+      "description5": "Muito pontual"
+    }
+  },
+  "reviews": {
+    "title1": "Realizadas",
+    "title2": "Recebidas"
+  },
+  "login": {
+    "title": "Entrar",
+    "passwordLogin": "Senha",
+    "text": "AQUI VOCÊ ENCONTRA A SOLUÇÃO QUE VAI FACILITAR A SUA VIDA!",
+    "buttonLogin": "FAZER LOGIN",
+    "buttonRegister": "CADASTRE-SE",
+    "textForgotPassword": "Esqueci Minha Senha"
+  },
+  "tooltips": {
+    "name": "Escreva seu nome da mesma forma que aparece no seu documento de identificação. Os demais usuários da plataforma só vão ver seu primeiro nome.",
+    "data": "Digite no formato DD-MM-AAAA. Esta informação é restrita - não aparece para os demais usuários",
+    "cpf": "Informe o seu número de identificação fiscal pessoal, não o empresarial. Informação Restrita",
+    "id": "Insira o documento de identificação válido no país onde deseja trabalhar. Informação Restrita",
+    "uf": "Insira o nome da instituição que emitiu seu documento. Para Cartão do Cidadão, informe República Portuguesa.",
+    "zipcode": "Formato XXXX-XXX - Informação Restrita",
+    "street": "Escreva Rua, Av, Praça ou Trav e o nome do logradouro da sua morada – Informação Restrita",
+    "complement": "Demais informações da localização da morada",
+    "number": "Numeração da rua",
+    "phone": "Informe o melhor para contato com código de país e área – Informação Restrita",
+    "email": "Informe o mais utilizado, pois enviaremos alertas para esse endereço a cada contato de potenciais clientes",
+    "password": "Utilize uma combinação de no mínimo 8 dígitos, com letras maiúsculas e minúsculas, números e caracteres especiais (@$!%*?&#)",
+    "activities": "Pode selecionar várias categorias, desde que tenha experiência concreta em cada uma das atividades marcadas",
+    "region": "Pode informar mais de uma região. Esta informação é fundamental para que o contratante encontre seu perfil",
+    "indicationCode": "Necessário para manter a qualidade e a confiabilidade dos profissionais cadastrados. Se ainda não tem o código, faça contato pelo e-mail contato@homeassist4u.com. Seu perfil será avaliado antes de enviarmos o código para sua inscrição",
+    "document": "Envie cópia em JPG ou PDF da frente e do verso do mesmo documento informado anteriormente. Caso todo o documento esteja em um único ficheiro/arquivo, coloque no local definido como frente. Informação Restrita",
+    "profilePic": "Envie uma boa foto do seu rosto. Não aceitamos logomarcas ou outras imagens diferentes",
+    "father": "Escreva como aparece em seu documento de identificação. Caso o espaço esteja em branco, digite EM BRANCO – Informação Restrita",
+    "mother": "Escreva como aparece em seu documento de identificação. Caso o espaço esteja em branco, digite EM BRANCO – Informação Restrita",
+    "birthState": "Se não nasceu em Portugal, escreva o equivalente em seu país de origem - Por exemplo: no Brasil é Estado e nos Estados Unidos é State – Informação Restrita",
+    "xpDesc": "Descreva sua experiência profissional de forma detalhada. Lembre-se da importância dessa informação para avaliação dos contratantes",
+    "xpPeriod": "Informe o número de anos trabalhado no serviço que você realiza há mais tempo",
+    "courses": "Preencha com os cursos que te conferem maior credibilidade. Se o nome da instituição for relevante, vale a pena informar",
+    "education": "Selecione entre as opções básico, médio, superior ou pós-graduação",
+    "attach": "Informações como contatos e número de documentos poderão ser vistas por quaisquer assinantes da plataforma. Aconselhamos não expor essas informações para que você decida quem pode conhecer seus dados",
+    "hours": "Selecione uma opção de cada vez e depois os horários disponíveis a cada dia. Salve e continue selecionando os dias e horários em que costuma trabalhar. Informação importante para os contratantes",
+    "socialMedia": "Páginas profissionais. Você pode optar em autorizar ou não que seus perfis divulgados",
+    "driver": "Importante para algumas categorias profissionais",
+    "pets": "Importante para serviços realizados na morada dos clientes",
+    "smoker": "Importante para serviços realizados na morada dos clientes",
+    "language": "Selecione um idioma",
+    "notes": "Se precisar, preencha com informações importantes para que seu perfil fique mais atrativo para os contratantes",
+    "requiredField": "Campo obrigatório",
+    "errorPassword": "Senha deve conter letras maiúsculas e minúsculas, números e caracteres especiais (@$!%*?&#)",
+    "buttonLabels": {
+      "next": "Continuar",
+      "previous": "Voltar",
+      "edit": "Alterar",
+      "register": "Cadastrar"
+    }
+  }
+}
