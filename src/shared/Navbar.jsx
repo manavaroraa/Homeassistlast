@@ -151,16 +151,16 @@ const Navbar = (props) => {
                         <button className="btn1"><Link to="/cadastro/wizard/profissional" >Sign In Professional</Link></button>
                         <button className="btn2"><Link to="/entrar" >LOGIN</Link></button>
                         <LanguageSelector
-              name="lang"
+              name="lang" className="bannerclass"
               onChange={(e) => handleChangeLanguage(e.target.value)}
             >
-               <option value="en">English</option>
-                            <option value="pt">Portuguese</option>
+               <option className="banner-lang" value="en">English</option>
+                            <option className="banner-lang" value="pt">Portuguese</option>
               {/* <option value="pt">PT</option> */}
               {/* <option value="pt-br">PT-BR</option> */}
               {/* <option value="en">ENG</option> */}
-              <option value="Spanish">Spanish</option>
-                            <option value="French">French</option>
+              <option className="banner-lang" value="Spanish">Spanish</option>
+                            <option className="banner-lang" value="French">French</option>
             </LanguageSelector>
                         {/* <select name="English" id="English">
                            

@@ -85,8 +85,14 @@ const HomeFormSearch = () => {
     <FormSearch onSubmit={formik.handleSubmit} noValidate>
       <section class="search">
         <div class="container">
+        <div className="row">
+        <div className="assist-txt">
+                <h3>
+                SELECT THE SERVICES IN YOUR LOCATION!
+                </h3>
+        </div>
+        </div>
           <div class="row state">
-            <p>SELECT THE SERVICES IN YOUR LOCATION!</p>
             <div class="search-frm">
               <div class="need">
                 <label for="What do you need?">What do you need?</label>
