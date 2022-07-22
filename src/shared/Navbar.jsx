@@ -45,7 +45,7 @@ const Navbar = (props) => {
   // const { isOpen, onOpen, onClose } = useDisclosure();
   // const [showModalSearch, setShowModalSearch] = useState(false);
 
-  // const { lang, setLanguage } = useContext(LanguageContext);
+  const { lang, setLanguage } = useContext(LanguageContext);
 
   // const drawerRef = useRef();
 
@@ -116,9 +116,9 @@ const Navbar = (props) => {
 
   // const pathname = window?.location?.pathname;
 
-  // function handleChangeLanguage(value) {
-  //   setLanguage(value);
-  // }
+  function handleChangeLanguage(value) {
+    setLanguage(value);
+  }
 
   return (
    <>
@@ -150,12 +150,22 @@ const Navbar = (props) => {
     <div className="btn">
                         <button className="btn1"><Link to="/cadastro/wizard/profissional" >Sign In Professional</Link></button>
                         <button className="btn2"><Link to="/entrar" >LOGIN</Link></button>
-                        <select name="English" id="English">
-                            <option value="English">English</option>
-                            <option value="Portuguese">Portuguese</option>
-                            <option value="Spanish">Spanish</option>
+                        <LanguageSelector
+              name="lang"
+              onChange={(e) => handleChangeLanguage(e.target.value)}
+            >
+               <option value="en">English</option>
+                            <option value="pt">Portuguese</option>
+              {/* <option value="pt">PT</option> */}
+              {/* <option value="pt-br">PT-BR</option> */}
+              {/* <option value="en">ENG</option> */}
+              <option value="Spanish">Spanish</option>
                             <option value="French">French</option>
-                        </select>
+            </LanguageSelector>
+                        {/* <select name="English" id="English">
+                           
+                           
+                        </select> */}
       
                     </div>
   </div>
@@ -170,20 +180,20 @@ const Navbar = (props) => {
 export default withRouter(Navbar);
 // const Container = styled(Box)``;
 
-// const LanguageSelector = styled.select`
-//   background: ${(props) => props.theme.color.green};
-//   color: #fff;
-//   font-size: 0.75rem;
-//   height: 2rem;
-//   font-weight: bold;
-//   border: none;
-//   border-radius: 4px;
+const LanguageSelector = styled.select`
+  background: ${(props) => props.theme.color.blue};
+  color: #fff;
+  font-size: 0.75rem;
+  height: 2rem;
+  font-weight: bold;
+  border: none;
+  border-radius: 4px;
 
-//   option {
-//     border: none;
-//     text-transform: uppercase;
-//   }
-// `;
+  option {
+    border: none;
+    text-transform: uppercase;
+  }
+`;
 
 // const Content = styled(Box)`
 //   box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
